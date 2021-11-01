@@ -12,8 +12,6 @@
     "@sanity/default-layout",
     "@sanity/default-login",
     "@sanity/desk-tool",
-    "media",
-    "social-preview",
     "seo-tools"
   ],
   "env": {
