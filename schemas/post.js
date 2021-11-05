@@ -9,6 +9,14 @@ export default {
       type: 'string',
     },
     {
+      name: 'description',
+      title: 'Description',
+      type: 'string',
+      options: {
+        maxLength: 158,
+      },
+    },
+    {
       name: 'slug',
       title: 'Slug',
       type: 'slug',
